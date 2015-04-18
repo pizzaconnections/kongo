@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/pizzaconnections/kongo/issues"
   },
-  "homepage": "https://github.com/pizzaconnections/kongo"
+  "homepage": "https://github.com/pizzaconnections/kongo",
+  "dependencies": {
+    "co": "^4.5.2",
+    "koa": "^0.19.1"
+  }
 }
