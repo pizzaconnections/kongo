@@ -1,0 +1,26 @@
+{
+  "name": "kongo",
+  "version": "1.0.0",
+  "description": "Project base with Koa.js + Angular.js + OrientDB",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pizzaconnections/kongo"
+  },
+  "keywords": [
+    "koa.js",
+    "angular.js",
+    "orientDB",
+    "graphdatabase",
+    "node.js"
+  ],
+  "author": "Andrea Santurbano and Gianpaolo Altamura",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/pizzaconnections/kongo/issues"
+  },
+  "homepage": "https://github.com/pizzaconnections/kongo"
+}
