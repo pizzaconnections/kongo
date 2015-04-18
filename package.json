@@ -24,7 +24,10 @@
   },
   "homepage": "https://github.com/pizzaconnections/kongo",
   "dependencies": {
+    "bower": "^1.4.1",
     "co": "^4.5.2",
-    "koa": "^0.19.1"
+    "koa": "^0.19.1",
+    "koa-route": "^2.4.1",
+    "oriento": "^1.1.3"
   }
 }
